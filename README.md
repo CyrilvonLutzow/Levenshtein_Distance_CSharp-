@@ -1,4 +1,4 @@
-# Levenshtein_Distance_CSharp-
+# Levenshtein Distance C#
 This repository contains C# version of Levenshtein distance calculation code.
 
   The Levenshtein algorithm calculates the least number of edit operations that are necessary to modify one string to obtain another string.Here explained the most common way of calculating this - Dynamic programming approach. 
